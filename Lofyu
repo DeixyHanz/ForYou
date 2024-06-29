@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ungkapan Hati</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 2.0;
+            margin: 20px;
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+            text-align: center;
+        }
+        .message {
+            font-size: 24px;
+            color: #333;
+            margin-bottom: 20px;
+        }
+        .author {
+            font-style: italic;
+            color: #19bdd3;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Pagiii Sasa Sayangg❤️</h1>
+        <p class="message">"Aku mungkin tidak selalu bersama mu
+                Tapi saat kita berjauhan, ingatlah kamu akan bersamaku dalam hatiku💕"</p>
+        <p class="author">- RaihanGanzzSlebew</p>
+    </div>
+</body>
+</html>
